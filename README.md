@@ -18,6 +18,6 @@ This project aims to build a low cost, highly customizable yet large volume 3D p
      
   * [Manu Aatitya R P](https://github.com/manuaatitya)  
   
-  * [Jack Samuel S](https://github.com/jaxxstar)
+  * [Jack Samuel](https://github.com/jaxxstar)
   
   * [Aditya Singh](https://github.com/adityasingh3007)
